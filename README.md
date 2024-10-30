@@ -103,4 +103,4 @@ This will generate the `.app` file in `build/macos/Build/Products/Release/ApexBu
 
 ## Conclusion
 
-ApexBurn is a versatile, easy-to-use compiler that offers multi-language support and modern GUI for writing and running code efficiently. Whether you're working on Python, Java, C++, or C#, ApexBurn has you covered with a clean and professional development environme
+ApexBurn is a versatile, easy-to-use compiler that offers multi-language support and modern GUI for writing and running code efficiently. Whether you're working on Python, Java, C++, or C#, ApexBurn has you covered with a clean and professional development environment.
